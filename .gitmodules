@@ -7,3 +7,9 @@
 [submodule "CovidDataExploration"]
 	path = CovidDataExploration
 	url = https://github.com/lucas42paris/CovidDataExploration
+[submodule "AutomatedCryptoWebsite"]
+	path = AutomatedCryptoWebsite
+	url = https://github.com/lucas42paris/AutomatedCryptoWebsite
+[submodule "DataCleaning"]
+	path = DataCleaning
+	url = https://github.com/lucas42paris/DataCleaning
